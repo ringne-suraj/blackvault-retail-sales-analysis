@@ -164,7 +164,7 @@ The analysis provides insights into:
 - Return patterns and their relationship with sales performance.
 
 
-## 7.🎯 Business Recommendations
+## 🎯 Business Recommendations
 
 Based on the analysis, the business can:
 
@@ -174,7 +174,7 @@ Based on the analysis, the business can:
 - Review shipping patterns to identify opportunities for improving operational efficiency.
 - Monitor return patterns to identify potential product or order-related issues.
 
-**## 8.🧠 Skills Demonstrated**
+**## 🧠 Skills Demonstrated**
 
 - Data Understanding & Preparation
 - Data Quality Assessment
@@ -188,9 +188,6 @@ Based on the analysis, the business can:
 - Data Visualization
 - Business Insights & Recommendations
 
-
-
-# Step 9 — Author
 
 
 ## 👤 Author
