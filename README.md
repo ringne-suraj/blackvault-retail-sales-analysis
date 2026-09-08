@@ -174,7 +174,7 @@ Based on the analysis, the business can:
 - Review shipping patterns to identify opportunities for improving operational efficiency.
 - Monitor return patterns to identify potential product or order-related issues.
 
-##8.🧠 Skills Demonstrated
+**## 8.🧠 Skills Demonstrated**
 
 - Data Understanding & Preparation
 - Data Quality Assessment
@@ -187,3 +187,16 @@ Based on the analysis, the business can:
 - Business Analysis
 - Data Visualization
 - Business Insights & Recommendations
+
+
+
+# Step 9 — Author
+
+
+## 👤 Author
+
+**Suraj Ringne**
+
+Aspiring Data Analyst | Excel | SQL | Power BI
+
+[LinkedIn](YOUR-LINKEDIN-URL)
