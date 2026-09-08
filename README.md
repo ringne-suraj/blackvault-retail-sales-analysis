@@ -196,4 +196,4 @@ Based on the analysis, the business can:
 
 Aspiring Data Analyst | Excel | SQL | Power BI
 
-[LinkedIn]: (https://www.linkedin.com/in/suraj-ringne-b9b518267)
+[LinkedIn] (https://www.linkedin.com/in/suraj-ringne-b9b518267)
