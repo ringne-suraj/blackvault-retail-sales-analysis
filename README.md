@@ -84,6 +84,18 @@ Identified data quality issues were reviewed and addressed before proceeding wit
 
 The cleaned datasets were then prepared for SQL analysis and Power BI reporting.
 
+Before performing business analysis, the datasets were reviewed and prepared to ensure data reliability.
+
+The data quality process covered:
+
+- **Completeness** — identifying missing values.
+- **Duplicates** — checking for duplicate records.
+- **Validity** — checking invalid values and dates.
+- **Consistency** — ensuring values followed expected formats and standards.
+- **Relationships** — validating relationships between the datasets.
+
+After addressing the identified issues, the cleaned data was used for SQL business analysis and Power BI reporting.
+
 ### 4. SQL Business Analysis
 
 MySQL was used to perform structured business analysis across key areas including:
@@ -101,6 +113,22 @@ The prepared data was brought into Power BI to develop an interactive dashboard 
 
 DAX measures were used to calculate and support key business metrics.
 
+The dashboard includes:
+
+- Key performance indicators (KPIs)
+- Sales and profit analysis
+- Product and category performance
+- Regional and market analysis
+- Time-based trends
+- Shipping analysis
+- Interactive filters and visual exploration
+### Dashboard Preview
+
+![BlackVault Dashboard]:<img width="1305" height="727" alt="Customer_Analysis (Op_Black_Vault)" src="https://github.com/user-attachments/assets/e4ae00a1-ec33-4499-8da2-7cdccc7a2467" />
+
+
 ### 6. Insights & Recommendations
 
 The final analysis was used to identify important business patterns and translate them into actionable insights and recommendations.
+
+
