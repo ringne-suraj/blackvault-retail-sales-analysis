@@ -127,6 +127,14 @@ The dashboard includes:
 ![BlackVault Dashboard]:<img width="1305" height="727" alt="Customer_Analysis (Op_Black_Vault)" src="https://github.com/user-attachments/assets/e4ae00a1-ec33-4499-8da2-7cdccc7a2467" />
 
 
+<img width="1302" height="732" alt="Executive_Summary (Operation Black Vault)" src="https://github.com/user-attachments/assets/2b010d09-ccb0-4125-adf3-8e7dc9bbf68b" />
+
+
+<img width="1302" height="737" alt="Product_Analysis (OpBlack_Vault)" src="https://github.com/user-attachments/assets/2a5f5656-cdc6-411f-877e-3826092b35bf" />
+
+
+
+
 ### 6. Insights & Recommendations
 
 The final analysis was used to identify important business patterns and translate them into actionable insights and recommendations.
