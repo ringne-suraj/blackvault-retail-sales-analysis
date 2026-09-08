@@ -139,4 +139,51 @@ The dashboard includes:
 
 The final analysis was used to identify important business patterns and translate them into actionable insights and recommendations.
 
+## 📌 Key KPIs
 
+The dashboard tracks key retail performance indicators, including:
+
+- **Total Sales**
+- **Total Profit**
+- **Total Orders**
+- **Total Customers**
+- **Profit Margin**
+- **Returned Orders**
+- **Average Order Value**
+
+## 💡 Key Insights
+
+The analysis provides insights into:
+
+- Overall sales and profitability performance.
+- Top and underperforming products and categories.
+- Regional and market-level performance differences.
+- Changes in sales performance over time.
+- Shipping patterns and their impact on business operations.
+- Customer and order-level performance.
+- Return patterns and their relationship with sales performance.
+
+
+## 7.🎯 Business Recommendations
+
+Based on the analysis, the business can:
+
+- Focus on high-performing products, categories, and markets while investigating underperforming areas.
+- Monitor profitability alongside sales to identify areas requiring improvement.
+- Use regional and time-based trends to support sales planning and resource allocation.
+- Review shipping patterns to identify opportunities for improving operational efficiency.
+- Monitor return patterns to identify potential product or order-related issues.
+
+##8.🧠 Skills Demonstrated
+
+- Data Understanding & Preparation
+- Data Quality Assessment
+- Excel
+- SQL / MySQL
+- Power Query
+- DAX
+- Power BI
+- KPI Development
+- Business Analysis
+- Data Visualization
+- Business Insights & Recommendations
