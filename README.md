@@ -53,3 +53,54 @@ The project uses three related datasets from a retail sales database:
 | **Returns** | Information about returned orders used to analyze return-related patterns. |
 
 The datasets were examined and prepared for data quality issues before being used for business analysis and dashboard development.
+
+
+## 🔄 Project Workflow
+
+The project followed a structured end-to-end data analytics workflow:
+
+**Raw Data → Data Understanding → Data Quality Assessment → Data Cleaning → SQL Business Analysis → Power BI Dashboard → Insights & Recommendations**
+
+### 1. Data Understanding
+
+The raw datasets were initially examined to understand their structure, columns, data types, relationships, and business meaning.
+
+Microsoft Excel was used for initial data inspection and required data-type changes.
+
+### 2. Data Quality Assessment
+
+The datasets were systematically checked for common data quality issues:
+
+- Missing values
+- Duplicate records
+- Invalid values
+- Invalid dates
+- Inconsistent data
+- Relationship and referential integrity issues
+
+### 3. Data Cleaning & Preparation
+
+Identified data quality issues were reviewed and addressed before proceeding with business analysis.
+
+The cleaned datasets were then prepared for SQL analysis and Power BI reporting.
+
+### 4. SQL Business Analysis
+
+MySQL was used to perform structured business analysis across key areas including:
+
+- Product performance
+- Category performance
+- Regional and market performance
+- Time-based sales trends
+- Shipping analysis
+- Sales and profit performance
+
+### 5. Power BI Dashboard
+
+The prepared data was brought into Power BI to develop an interactive dashboard with KPIs, charts, trends, and analytical views.
+
+DAX measures were used to calculate and support key business metrics.
+
+### 6. Insights & Recommendations
+
+The final analysis was used to identify important business patterns and translate them into actionable insights and recommendations.
